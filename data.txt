@@ -1,0 +1,6 @@
+train: ../Carplate/Training
+val: ../Carplate/Labels/Validation
+#number of classes
+nc: 1
+#class names
+names: ['Numberplate']
